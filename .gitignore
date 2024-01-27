@@ -1,0 +1,9 @@
+out/
+build/
+*.nro
+*.elf
+*.rpx
+*.wuhb
+.vscode/
+.fleet/
+.idea/
